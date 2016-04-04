@@ -1,0 +1,12 @@
+{
+  "name": "LukasReschke/ID3Parser",
+  "homepage" : "https://github.com/LukasReschke/ID3Parser/",
+  "require" : {
+    "php" : ">=5.4.0"
+  },
+  "autoload" : {
+    "psr-4" : {
+      "ID3Parser\\" : "src/"
+    }
+  }
+}
