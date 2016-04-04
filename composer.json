@@ -4,6 +4,8 @@
   "require" : {
     "php" : ">=5.4.0"
   },
+  "license": "GPL",
+  "keywords": ["php","tags","codecs"],
   "autoload" : {
     "psr-4" : {
       "ID3Parser\\" : "src/"
